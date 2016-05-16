@@ -34,5 +34,9 @@
             "Ck\\Test\\Laravel\\Faker\\": "tests/"
         }
     },
-    "minimum-stability": "dev"
+    "extra": {
+        "branch-alias": {
+            "dev-master": "5.1.x-dev"
+        }
+    }
 }
